@@ -26,7 +26,7 @@ NEWS_API_KEY="YOUR_API_KEY"
 ```
 
 ```
-MONGO_URI= YOUR_MONGO_URI"
+MONGO_URI="YOUR_MONGO_URI"
 ```
 
 <p>2. First run:</p>
