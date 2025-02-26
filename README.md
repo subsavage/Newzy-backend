@@ -25,9 +25,3 @@ npm init -y
 ```
 npm install
 ```
-
-  
-  
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
