@@ -16,6 +16,11 @@ Here're some of the project's best features:
 
 <p>1. Make a .env file and add the following fields in it:</p>
 
+<p>• Get the news API key from <a href="https://newsapi.org/">NewsAPI</a>.</p>
+<p>• Get the Mongo URI from your MongoDB cluster.</p>
+
+
+
 ```
 NEWS_API_KEY="YOUR_API_KEY"
 ```
@@ -24,13 +29,13 @@ NEWS_API_KEY="YOUR_API_KEY"
 MONGO_URI= YOUR_MONGO_URI"
 ```
 
-<p>3. First run:</p>
+<p>2. First run:</p>
 
 ```
 npm init -y
 ```
 
-<p>4. Then run:</p>
+<p>3. Then run:</p>
 
 ```
 npm install
